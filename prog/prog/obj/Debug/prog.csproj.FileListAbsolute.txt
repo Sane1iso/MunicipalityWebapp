@@ -1,0 +1,13 @@
+C:\Users\lab_services_student\source\repos\Prog\prog\obj\Debug\prog.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\Prog\prog\obj\Debug\prog.Form1.resources
+C:\Users\lab_services_student\source\repos\Prog\prog\obj\Debug\prog.Properties.Resources.resources
+C:\Users\lab_services_student\source\repos\Prog\prog\obj\Debug\prog.ReportIssuesForm.resources
+C:\Users\lab_services_student\source\repos\Prog\prog\obj\Debug\prog.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\Prog\prog\obj\Debug\prog.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\prog\prog\bin\Debug\prog.exe.config
+C:\Users\lab_services_student\source\repos\prog\prog\bin\Debug\prog.exe
+C:\Users\lab_services_student\source\repos\prog\prog\bin\Debug\prog.pdb
+C:\Users\lab_services_student\source\repos\prog\prog\obj\Debug\prog.exe
+C:\Users\lab_services_student\source\repos\prog\prog\obj\Debug\prog.pdb
+C:\Users\lab_services_student\source\repos\prog\prog\obj\Debug\prog.LocalEventsForm.resources
+C:\Users\lab_services_student\source\repos\Prog\prog\obj\Debug\prog.ServiceRequestStatusForm.resources

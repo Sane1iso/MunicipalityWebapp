@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\prog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9A3088-B5D6-41B2-BFDF-1E31F4FBC5EA}|prog\\prog.csproj|c:\\users\\lab_services_student\\source\\repos\\prog\\prog\\servicerequeststatusform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9A3088-B5D6-41B2-BFDF-1E31F4FBC5EA}|prog\\prog.csproj|solutionrelative:prog\\servicerequeststatusform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9A3088-B5D6-41B2-BFDF-1E31F4FBC5EA}|prog\\prog.csproj|c:\\users\\lab_services_student\\source\\repos\\prog\\prog\\servicerequeststatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF9A3088-B5D6-41B2-BFDF-1E31F4FBC5EA}|prog\\prog.csproj|solutionrelative:prog\\servicerequeststatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9A3088-B5D6-41B2-BFDF-1E31F4FBC5EA}|prog\\prog.csproj|C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\servicerequeststatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9A3088-B5D6-41B2-BFDF-1E31F4FBC5EA}|prog\\prog.csproj|solutionrelative:prog\\servicerequeststatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9A3088-B5D6-41B2-BFDF-1E31F4FBC5EA}|prog\\prog.csproj|c:\\users\\lab_services_student\\source\\repos\\prog\\prog\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9A3088-B5D6-41B2-BFDF-1E31F4FBC5EA}|prog\\prog.csproj|solutionrelative:prog\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9A3088-B5D6-41B2-BFDF-1E31F4FBC5EA}|prog\\prog.csproj|C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9A3088-B5D6-41B2-BFDF-1E31F4FBC5EA}|prog\\prog.csproj|solutionrelative:prog\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRequestStatusForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\ServiceRequestStatusForm.cs",
+              "RelativeDocumentMoniker": "prog\\ServiceRequestStatusForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\ServiceRequestStatusForm.cs",
+              "RelativeToolTip": "prog\\ServiceRequestStatusForm.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:52:00.569Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRequestStatusForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\ServiceRequestStatusForm.Designer.cs",
+              "RelativeDocumentMoniker": "prog\\ServiceRequestStatusForm.Designer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\ServiceRequestStatusForm.Designer.cs",
+              "RelativeToolTip": "prog\\ServiceRequestStatusForm.Designer.cs",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAAADcBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:38:02.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRequestStatusForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\ServiceRequestStatusForm.cs",
+              "RelativeDocumentMoniker": "prog\\ServiceRequestStatusForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\ServiceRequestStatusForm.cs [Design]",
+              "RelativeToolTip": "prog\\ServiceRequestStatusForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:04:55.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "prog\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\ServiceRequest.cs",
+              "RelativeToolTip": "prog\\ServiceRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:49:50.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\Issue.cs",
+              "RelativeDocumentMoniker": "prog\\Issue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prog\\prog\\Issue.cs",
+              "RelativeToolTip": "prog\\Issue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:51:31.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
